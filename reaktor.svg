@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="761px" height="414px" viewBox="0 0 761 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Reaktor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.877193%" y1="0%" x2="50.877193%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DB214C" offset="0%"></stop>
+            <stop stop-color="#DB214C" offset="40%"></stop>
+            <stop stop-color="#0093DD" offset="75%"></stop>
+            <stop stop-color="#0093DD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.589106%" y1="99.9929279%" x2="49.589106%" y2="17.3903819%" id="linearGradient-2">
+            <stop stop-color="#098ED7" offset="0%"></stop>
+            <stop stop-color="#C02C8A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.75%" y1="-2.86624204%" x2="53.75%" y2="102.229299%" id="linearGradient-3">
+            <stop stop-color="#EF4545" offset="0%"></stop>
+            <stop stop-color="#C02C8A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="850%" y1="-2.86624204%" x2="850%" y2="102.229299%" id="linearGradient-4">
+            <stop stop-color="#EF4545" offset="0%"></stop>
+            <stop stop-color="#C02C8A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reaktor">
+            <rect id="Reaktor-fill" fill="url(#linearGradient-1)" fill-rule="nonzero" x="41" y="50" width="114" height="253" rx="57"></rect>
+            <rect id="SHRINKME" fill="#FFFFFF" x="41" y="50" width="114" height="253"></rect>
+            <rect stroke="#000000" stroke-width="8" fill-rule="nonzero" x="41" y="50" width="114" height="253" rx="57"></rect>
+            <polygon id="COLORME3" stroke="#333333" fill="#DA251D" fill-rule="nonzero" points="61.16 160.8 75.81 160.8 75.81 226.9 61.16 226.9"></polygon>
+            <polygon id="COLORME2" stroke="#333333" fill="#DA251D" fill-rule="nonzero" points="89.7 160.8 104.35 160.8 104.35 226.9 89.7 226.9"></polygon>
+            <polygon id="COLORME1" stroke="#333333" fill="#DA251D" fill-rule="nonzero" points="118 160.8 132.6 160.8 132.6 226.9 118 226.9"></polygon>
+            <g id="Group" transform="translate(150.000000, 106.000000)">
+                <path d="M502.3,216.9 C577.9,218.2 582.1,213.1 585.8,226.7 C596.7,267.4 567.9,257.9 559.2,259.5 C524,265.9 481.8,242 502.3,216.9 Z" id="Gewaesser" fill="#77CCFF" fill-rule="nonzero"></path>
+                <path d="M0.36,0.5 C40.56,0.4 69.76,0.6 122.16,0.5 C126.06,1.6 142.86,6.9 144.66,27.1 L144.86,42.9 L130.56,42.9 L130.56,26.4 C128.96,16.3 118.66,14.3 118.66,14.3 L0.46,14.5" id="HeissdampfrohrHochdruck-p1" stroke="#000000" fill="#DB214C" fill-rule="nonzero"></path>
+                <path d="M52.36,7.7 L100.36,7.7" id="HeissdampfrohrHochdruck-p2" stroke="#000000"></path>
+                <path d="M167.16,42.9 C167.16,42.9 169.66,29.4 179.86,29.4 L209.66,29.2 C222.76,29.2 223.46,42.9 223.46,42.9 L238.06,42.9 C238.06,42.9 235.66,15.7 210.76,15.7 L179.86,15.4 C154.86,15.4 153.46,42.9 153.46,42.9 L167.16,42.9 Z" id="HeissdampfrohrNiedrigdruck-p" stroke="#000000" fill="#DB214C" fill-rule="nonzero"></path>
+                <path d="M181.7,22.4 L209.3,22.4" id="HeissdampfrohrNiedrigdruckPfeil" stroke="#000000"></path>
+                <path d="M158.3,127 L299.4,127 C307.1,127 313.3,141.5 313.3,159.6 L313.3,165 C313.3,183.1 307.1,197.7 299.4,197.7 L158.3,197.7 C150.6,197.7 144.4,183.1 144.4,165 L144.4,159.6 C144.4,141.5 150.6,127 158.3,127 Z" id="KondensatorGross" stroke="#000000" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <polygon id="KondensatorInputLinks-f" fill="url(#linearGradient-3)" fill-rule="nonzero" points="249.7 98.9 257.7 98.9 257.7 130.3 249.7 130.3"></polygon>
+                <path d="M249.7,98.9 L249.7,127.5" id="KondensatorInputLinks-p1" stroke="#000000"></path>
+                <path d="M257.7,98.9 L257.7,127.5" id="KondensatorInputLinks-p2" stroke="#000000"></path>
+                <path d="M253.6,100.3 L253.6,130.3" id="KondensatorInputLinksArrow" stroke="#000000"></path>
+                <polygon id="KondensatorInputRechts-f" fill="url(#linearGradient-4)" fill-rule="nonzero" points="186 98.9 194 98.9 194 130.3 186 130.3"></polygon>
+                <path d="M186.06,98.9 L186.06,127.5" id="KondensatorInputRechts-p1" stroke="#000000"></path>
+                <path d="M194,98.9 L194,127.5" id="KondensatorInputRechts-p2" stroke="#000000"></path>
+                <path d="M190.3,100.3 L190.3,130.3" id="KondensatorInputRechtsArrow" stroke="#000000"></path>
+                <polygon id="TurbinePfad1" stroke="#000000" fill="#00923F" fill-rule="nonzero" points="114.5 58.8 120.4 58.8 120.4 83 114.5 83"></polygon>
+                <polygon id="TurbinePfad2" stroke="#000000" fill="#00923F" fill-rule="nonzero" points="271.3 58.8 277.3 58.8 277.3 83 271.3 83"></polygon>
+                <polygon id="TurbinePfad3" stroke="#000000" fill="#00923F" fill-rule="nonzero" points="120.4 42.9 271.3 42.9 271.3 98.9 120.4 98.9"></polygon>
+                <path d="M173.56,42.9 L173.56,98.9" id="TurbineLinieMitte" stroke="#000000"></path>
+                <polygon id="WellenendeLinks" fill="#000000" fill-rule="nonzero" points="110.9 64.4 114.5 64.4 114.5 77.4 110.9 77.4"></polygon>
+                <polygon id="Welle2" fill="#000000" fill-rule="nonzero" points="277.3 64.4 310.5 64.4 310.5 77.4 277.3 77.4"></polygon>
+                <polygon id="GeneratorPfad1" stroke="#000000" fill="#FFF500" fill-rule="nonzero" points="316.4 42.9 395.4 42.9 395.4 98.9 316.4 98.9"></polygon>
+                <polygon id="GeneratorPfad2" stroke="#000000" fill="#FFF500" fill-rule="nonzero" points="310.5 58.8 316.4 58.8 316.4 83 310.5 83"></polygon>
+                <path d="M0.3,128.6 C40.4,128.5 17,128.7 69.4,128.6 C69.4,128.6 92,129.5 92,155.2 L92.1,215.5 C92.1,215.5 93.8,226.3 105.4,226.3 L105.3,241 C77.7,241 77.8,215.5 77.8,215.5 L77.8,154.5 C77.8,144.8 65.9,142.5 65.9,142.5 L0.4,142.6" id="Speisewasser" stroke="#000000" fill="#0093DD" fill-rule="nonzero"></path>
+                <path d="M157.5,224.9 L216,224.7 C224.5,223.6 225.5,210.5 225.5,210.5 L225.6,197.7 L241.1,197.7 L241.2,210.5 C241.2,238.6 216,239 216,239 L158.3,239" id="KondensatorOutput-p1" stroke="#000000" fill="#0093DD" fill-rule="nonzero"></path>
+                <circle id="Speisewasserpumpe-p1" stroke="#000000" fill="#0093DD" fill-rule="nonzero" cx="132" cy="232" r="28"></circle>
+                <polygon id="Speisewasserpumpe-p2" fill="#000000" fill-rule="nonzero" points="112 232 144 216 144 248"></polygon>
+                <polyline id="vorwaerme" stroke="#000000" stroke-width="1.5" points="65 157 105 157 105 162 65 162 65 167 105 167 105 172 65 172 65 177 105 177 105 182 65 182 65 187 105 187 105 192 65 192 65 197 105 197 105 157 65 157 65 197"></polyline>
+                <path d="M558.1,230.8 L558.1,167.2 C558.1,167.2 556.8,155.4 546.3,155.4 L175.6,155.4 C169.1,155.4 169.3,169.6 175.6,169.6 L516.1,169.6 C540.2,169.6 540.2,193.7 540.2,193.7 L540.2,230.9 L525.8,230.9 L525.8,193.7 C525.8,193.7 525,183.7 515.9,183.7 L173.8,183.7 C149.4,183.7 149,141 175,141 L546.8,141 C570.8,141 572.1,166.2 572.1,166.2 L572.1,230.8 L558.1,230.8 Z" id="coolingwatertube" stroke="#000000" fill="#96AEBE" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
